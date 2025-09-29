@@ -9,8 +9,6 @@ It helps researchers, analysts, and data scientists quickly gain insights from t
 
 ## Installation
 
-Once released to PyPI:
-
 ```bash
 pip install research-insight
 
